@@ -42,7 +42,7 @@
     "@expo/env": "~1.0.5",
     "@expo/json-file": "~9.1.4",
     "@expo/spawn-async": "^1.7.2",
-    "browserslist": "^4.25.0",
+    "browserslist": "^4.25.1",
     "chalk": "^4.1.0",
     "dotenv": "~16.4.5",
     "dotenv-expand": "~11.0.6",
@@ -51,8 +51,8 @@
     "glob": "^10.4.2",
     "jsc-safe-url": "^0.2.4",
     "lightningcss": "~1.27.0",
-    "minimatch": "^9.0.0",
-    "postcss": "~8.4.32",
+    "minimatch": "^10.0.3",
+    "postcss": "~8.5.6",
     "resolve-from": "^5.0.0"
   },
   "devDependencies": {
